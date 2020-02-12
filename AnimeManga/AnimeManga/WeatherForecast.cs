@@ -1,6 +1,6 @@
 using System;
 
-namespace AnimeManga
+namespace AnimeManga.Api
 {
     public class WeatherForecast
     {

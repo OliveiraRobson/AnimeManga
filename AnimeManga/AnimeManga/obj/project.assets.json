@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olive\\source\\repos\\chungrob\\AnimeManga\\AnimeManga\\AnimeManga\\AnimeManga.csproj",
-      "projectName": "AnimeManga",
-      "projectPath": "C:\\Users\\Olive\\source\\repos\\chungrob\\AnimeManga\\AnimeManga\\AnimeManga\\AnimeManga.csproj",
+      "projectUniqueName": "C:\\Users\\Olive\\source\\repos\\chungrob\\AnimeManga\\AnimeManga\\AnimeManga\\AnimeManga.Api.csproj",
+      "projectName": "AnimeManga.Api",
+      "projectPath": "C:\\Users\\Olive\\source\\repos\\chungrob\\AnimeManga\\AnimeManga\\AnimeManga\\AnimeManga.Api.csproj",
       "packagesPath": "C:\\Users\\Olive\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Olive\\source\\repos\\chungrob\\AnimeManga\\AnimeManga\\AnimeManga\\obj\\",
       "projectStyle": "PackageReference",

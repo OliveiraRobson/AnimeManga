@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AnimeManga.Service
+namespace AnimeManga.Api.Service
 {
     public class Class1
     {

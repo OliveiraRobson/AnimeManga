@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AnimeManga.Model
+namespace AnimeManga.Api.Model
 {
     public class Class1
     {
