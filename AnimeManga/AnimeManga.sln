@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeManga", "AnimeManga\AnimeManga.csproj", "{559877BF-AC12-4D57-A710-93FB28AD93B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{116ED7BE-9A50-4701-8590-138C3F25679A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 -AnimeManga.Model", "1 -AnimeManga.Model", "{509052D8-7EE7-444B-BB86-5E262276CE56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 -AnimeManga.Service", "2 -AnimeManga.Service", "{3283B3D4-27F5-4A3E-8883-9E5F3D68E0FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 -AnimeManga.Api", "4.1 -AnimeManga.Api", "{982B2AF5-4DDA-44DA-B8AE-E690109A6F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeManga.Model", "AnimeManga.Model\AnimeManga.Model.csproj", "{420D732B-E4A0-4822-8AEC-339F69E47928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeManga.Service", "AnimeManga.Service\AnimeManga.Service.csproj", "{F5DECD60-A55C-4A38-9F34-D08A46880DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559877BF-AC12-4D57-A710-93FB28AD93B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559877BF-AC12-4D57-A710-93FB28AD93B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559877BF-AC12-4D57-A710-93FB28AD93B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559877BF-AC12-4D57-A710-93FB28AD93B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420D732B-E4A0-4822-8AEC-339F69E47928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420D732B-E4A0-4822-8AEC-339F69E47928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420D732B-E4A0-4822-8AEC-339F69E47928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420D732B-E4A0-4822-8AEC-339F69E47928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5DECD60-A55C-4A38-9F34-D08A46880DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DECD60-A55C-4A38-9F34-D08A46880DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DECD60-A55C-4A38-9F34-D08A46880DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DECD60-A55C-4A38-9F34-D08A46880DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{559877BF-AC12-4D57-A710-93FB28AD93B9} = {982B2AF5-4DDA-44DA-B8AE-E690109A6F78}
+		{509052D8-7EE7-444B-BB86-5E262276CE56} = {116ED7BE-9A50-4701-8590-138C3F25679A}
+		{3283B3D4-27F5-4A3E-8883-9E5F3D68E0FA} = {116ED7BE-9A50-4701-8590-138C3F25679A}
+		{982B2AF5-4DDA-44DA-B8AE-E690109A6F78} = {116ED7BE-9A50-4701-8590-138C3F25679A}
+		{420D732B-E4A0-4822-8AEC-339F69E47928} = {509052D8-7EE7-444B-BB86-5E262276CE56}
+		{F5DECD60-A55C-4A38-9F34-D08A46880DF2} = {3283B3D4-27F5-4A3E-8883-9E5F3D68E0FA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FFB0467-7D0C-4616-BCC4-49CA1824DE6E}
+	EndGlobalSection
+EndGlobal
