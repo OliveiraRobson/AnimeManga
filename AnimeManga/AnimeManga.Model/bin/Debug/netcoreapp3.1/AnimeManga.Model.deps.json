@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AnimeManga.Model/1.0.0": {
+        "runtime": {
+          "AnimeManga.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimeManga.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

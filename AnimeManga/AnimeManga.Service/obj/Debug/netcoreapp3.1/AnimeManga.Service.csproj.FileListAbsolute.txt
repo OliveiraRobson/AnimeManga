@@ -1,0 +1,8 @@
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\bin\Debug\netcoreapp3.1\AnimeManga.Service.deps.json
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\bin\Debug\netcoreapp3.1\AnimeManga.Service.dll
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\bin\Debug\netcoreapp3.1\AnimeManga.Service.pdb
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\obj\Debug\netcoreapp3.1\AnimeManga.Service.csprojAssemblyReference.cache
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\obj\Debug\netcoreapp3.1\AnimeManga.Service.AssemblyInfoInputs.cache
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\obj\Debug\netcoreapp3.1\AnimeManga.Service.AssemblyInfo.cs
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\obj\Debug\netcoreapp3.1\AnimeManga.Service.dll
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga.Service\obj\Debug\netcoreapp3.1\AnimeManga.Service.pdb

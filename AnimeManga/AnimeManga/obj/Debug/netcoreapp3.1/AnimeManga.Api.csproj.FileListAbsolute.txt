@@ -1,0 +1,17 @@
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\AnimeManga.Api.exe
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\AnimeManga.Api.deps.json
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\AnimeManga.Api.runtimeconfig.json
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\AnimeManga.Api.runtimeconfig.dev.json
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\AnimeManga.Api.dll
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\bin\Debug\netcoreapp3.1\AnimeManga.Api.pdb
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\AnimeManga.Api.csprojAssemblyReference.cache
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\staticwebassets\AnimeManga.Api.StaticWebAssets.Manifest.cache
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\staticwebassets\AnimeManga.Api.StaticWebAssets.xml
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\AnimeManga.Api.AssemblyInfoInputs.cache
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\AnimeManga.Api.AssemblyInfo.cs
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\AnimeManga.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\AnimeManga.Api.dll
+C:\Users\Olive\source\repos\chungrob\AnimeManga\AnimeManga\AnimeManga\obj\Debug\netcoreapp3.1\AnimeManga.Api.pdb
